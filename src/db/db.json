@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Archie Mosciski",
+    "phone": "848-354-3343 x28864",
+    "email": "Lyla_Tillman@hotmail.com",
+    "job": "Forward Operations Supervisor"
+  },
+  {
+    "name": "Cesar Jacobs",
+    "phone": "(850) 274-4123",
+    "email": "Halie32@hotmail.com",
+    "job": "Forward Integration Developer"
+  },
+  {
+    "name": "Kimberly Rempel",
+    "phone": "716.630.4512 x39350",
+    "email": "Zoey.Denesik@hotmail.com",
+    "job": "Lead Integration Strategist"
+  },
+  {
+    "name": "Robyn Kulas",
+    "phone": "286-289-1962 x0298",
+    "email": "Adriel_Adams@gmail.com",
+    "job": "Future Response Planner"
+  }
+]
